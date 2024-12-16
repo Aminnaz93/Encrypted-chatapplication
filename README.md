@@ -1,6 +1,6 @@
 ENCRYPTED CHAT APPLICATION.
 
-This project is a simpel chat application with the use of MQTT-Protocol to send and get message between users. the data get encrypt with the help of Fernet-cryptation so only the users between get the access of the data.
+This project is a simple chat application that uses the MQTT-protocol to send and receive messages between users. The data is encrypted with the help of Fernet-encryption so that only the users in the conversation have access to the data.
 
 
 * To run the the program, you need to install the following Python-paket.
