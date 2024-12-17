@@ -4,6 +4,7 @@ import base64
 from cryptography.fernet import Fernet
 import json 
 
+
 BROKER = 'broker.hivemq.com'  
 PORT = 1883  
 TOPIC = 'movantchat/python'  
