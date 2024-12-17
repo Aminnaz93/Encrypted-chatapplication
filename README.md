@@ -15,3 +15,4 @@ This project is a simple chat application that uses the MQTT-protocol to send an
 4. To end the program just type in 'quit' in the chat. 
 
 
+Programmed by: Amin & Jonathan
