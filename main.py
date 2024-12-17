@@ -27,7 +27,6 @@ def encrypt(message: dict, fernet: Fernet):
 
 #
 def decrypt(encrypted_message: bytes, fernet: Fernet):
-    """Avkryptera meddelandet och konvertera tillbaka till JSON-objekt"""
     decrypted_message = fernet.decrypt(encrypted_message).decode()
     message = json.loads(decrypted_message)
     return message
