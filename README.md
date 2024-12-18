@@ -10,7 +10,7 @@ This project is a simple chat application that uses the MQTT-protocol to send an
 
 * How to use the chat
 1. Type in your name when getting asked. 
-2. Choice a chatroom to connect(there's only one room - ("python")
+2. Choice a chatroom to connect, there's only one room - ("python")
 3. Write messages to the other users. The messages will be encrypted before they are getting sent and decrypt when the messages arrives to the other user.
 4. To end the program just type in 'quit' in the chat. 
 
