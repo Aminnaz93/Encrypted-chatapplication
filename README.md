@@ -17,6 +17,7 @@ This project is a simple chat application that uses the MQTT-protocol to send an
 Note:
 
 To subscribe to the broker. Type in movantchat/python to connect to the chat. 
+https://www.hivemq.com/demos/websocket-client/?
 
 
 Programmed by: Amin & Jonathan
