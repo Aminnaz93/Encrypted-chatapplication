@@ -14,5 +14,9 @@ This project is a simple chat application that uses the MQTT-protocol to send an
 3. Write messages to the other users. The messages will be encrypted before they are getting sent and decrypt when the messages arrives to the other user.
 4. To end the program just type in 'quit' in the chat. 
 
+Note:
+
+To subscribe to the broker. Type in movantchat/python to connect to the chat. 
+
 
 Programmed by: Amin & Jonathan
