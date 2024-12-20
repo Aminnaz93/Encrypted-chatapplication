@@ -65,7 +65,7 @@ class Chat:
             decrypted_message = decrypt(msg.payload, self.key_handler)
             print(f"Message received: {decrypted_message}")
         except Exception as e:
-            print(f"Error when process the message: {e}")
+            print(f"Error to get the message: {e}")
 
     def init_client(self):
         pass
